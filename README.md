@@ -1,6 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Layashree J N</h1>
 <h3 align="center">Aspiring Data Scientist | Freshman @ DSCE</h3>
+<br>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 
